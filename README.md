@@ -1,0 +1,1 @@
+Hejsa! This is a test project to play with git :) 
